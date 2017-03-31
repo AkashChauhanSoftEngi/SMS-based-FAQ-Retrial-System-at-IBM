@@ -1,5 +1,5 @@
 # SMS-based-FAQ-Retrieval-System-at-IBM
-This is an SMS based Frequently Asked Query retrieval System
+This is an SMS based Frequently Asked Questions retrieval System
 
 Short Messaging Service (SMS) is popularly used to provide information access to people on the move. This has resulted in the growth of SMS based Question Answering (QA) services. 
 However automatically handling SMS questions poses significant challenges due to the inherent noise in SMS questions.
