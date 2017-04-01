@@ -28,7 +28,7 @@ This system uses:
 * Tokenization
 * FAQ database [File-System]
 * SMS [Short Message Service]
-* Reseach & Analysis
+* Research & Analysis
 * Pencil Project to design WifeFrames of web pages
 * HTML, CSS & JS for frontend design
 
