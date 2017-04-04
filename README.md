@@ -5,8 +5,9 @@ Short Messaging Service (SMS) is popularly used to provide information access to
 However automatically handling SMS questions poses significant challenges due to the inherent noise in SMS questions.
 
 In this work, we present an automatic SMS based FAQ retrieval system for SMS users. We handle the noise in an SMS query by formulating the query similarity over FAQ questions as a combinatorial search problem.
-The search space consists of combinations of all possible dictionary variations of tokens in the noisy query. We present an efficient search algorithm that does not require any training data or SMS normalization and can handle semantic variations in question formulation. 
-We demonstrate the effectiveness of our approach on two real-life data sets.
+The search space consists of combinations of all possible dictionary variations of tokens in the noisy query. We present an efficient search algorithm that does not require any training data or SMS normalization and can handle semantic variations in question formulation. We demonstrate the effectiveness of our approach on two real-life data sets.
+
+This Auto-correction system using Database Dictionary Tokens. This Auto-correction system reads the wrong and misspelled word in the query and then by using some NLP Algorithms replace these words with their correct words. Later this Auto-correction system helped us to form more accurate query to be fetched from the Database.
 
 There are other research and commercial systems which have been developed for general question and answering. 
 These systems generally adopt one of the following three approaches: the Human intervention based, Information Retrieval based, or Natural language processing based. 
