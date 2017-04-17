@@ -23,7 +23,7 @@ This system uses:
 * C
 * C++
 * JAVA J2SE
-* Apache Tomcat v7.0
+* Apache Tomcat v6.0
 * Eclipse [IDE]
 * Indexing
 * Tokenization
@@ -33,4 +33,4 @@ This system uses:
 * Pencil Project to design WifeFrames of web pages
 * HTML, CSS & JS for frontend design
 
-<tt>Not allowed to share internal logic and source code here!<tt>
+<tt>Not included main Internal logic & source code here!<tt>
